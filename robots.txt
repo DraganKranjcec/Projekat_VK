@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://htmlpreview.github.io/?https://raw.githubusercontent.com/DraganKranjcec/Projekat_VK/main/Home.html
